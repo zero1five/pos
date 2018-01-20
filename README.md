@@ -3,9 +3,9 @@
 > A Vue.js project
 
 
--技术栈 - 基于 Vue、Webpack、Element、Axios and vue-cli 快速构建		 +> A Vue.js project
+-技术栈 - 基于 Vue、Webpack、Element、Axios and vue-cli 快速构建		 
   		  
- <hr/>		 +## Build Setup
+ <hr/>	
  <a href="http://zero1five.gitee.io/lazyman/dist/#/">在线预览地址</a>		
   		  
  --------------------------------------------------------------------------------------------------------------
