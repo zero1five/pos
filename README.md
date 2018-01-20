@@ -1,4 +1,4 @@
-# pos
+# Pos餐饮管理系统
 
 > A Vue.js project
 
